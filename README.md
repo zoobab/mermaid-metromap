@@ -6,7 +6,7 @@ Map of Brussels tram and subway in Mermaid format
 ```mermaid
 graph LR;
     classDef default fill:#fff,stroke:#333,stroke-width:4px,font-size:13px
-    id1((" "))---id2((" "))
+    id1((" "))---id2((" "))---id3((""))
     id3((" "))---id4((" "))
     id5((" "))---id6((" "))
     id7((" "))---id8((" "))
