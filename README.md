@@ -12,5 +12,4 @@ graph LR;
 		linkStyle 0 stroke:#e30613,stroke-width:5px
 		linkStyle 1 stroke:#0075bf,stroke-width:5px
 		linkStyle 2 stroke:#009e3d,stroke-width:5px
-		linkStyle 3 stroke:#63b9e9,stroke-width:5px
 ```
